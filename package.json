@@ -13,11 +13,11 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@parcel/config-default": "2.6.2",
-    "@parcel/core": "2.6.2",
-    "@parcel/transformer-stylus": "2.6.2",
-    "parcel": "2.6.2",
-    "parcel-transformer-ejs": "1.0.0",
-    "sharp": "0.29.1"
+    "@parcel/config-default": "2.13.3",
+    "@parcel/core": "2.13.3",
+    "@parcel/transformer-stylus": "2.13.3",
+    "parcel": "2.13.3",
+    "parcel-transformer-ejs": "1.0.1",
+    "sharp": "0.33.5"
   }
 }
